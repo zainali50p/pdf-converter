@@ -2,7 +2,7 @@
 
  PDF ⇄ DOCX Converter (Free & Simple)
 
-A free, open-source tool to **convert PDF to DOCX** and **DOCX to PDF** instantly.  
+A free, open-source tool to convert **PDF** to **DOCX** and **DOCX** to **PDF** instantly.  
 Lightweight, fast, and built with Python — no paid subscriptions required 🚀
 This tool is designed to handle file conversion tasks efficiently, with a simple setup and usage process.  
 
