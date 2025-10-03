@@ -1,0 +1,5 @@
+PyQt5>=5.15
+pdf2docx>=0.5.6
+mammoth>=1.4.19
+xhtml2pdf>=0.2.8
+lxml>=4.9
